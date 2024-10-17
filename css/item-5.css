@@ -1,0 +1,22 @@
+
+.noo{
+    width:5rem !important;
+    background-color: #270924;
+}
+main div>input,textarea{
+    background-color: #3c0a7a !important;
+    color: aliceblue !important;
+  
+}
+input::placeholder,textarea::placeholder{
+    color: aliceblue !important;
+}
+.hoo{
+    background-color: #cd83fb;
+}
+@media screen and (max-width:"770px") {
+    
+    iframe{
+        width: 100% !important;
+    }
+}
