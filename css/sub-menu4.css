@@ -1,0 +1,44 @@
+     .box1{
+        width: 80px;
+        height: 80px;
+        
+     }
+    .box3{
+        height: 400px;
+    }
+    .a1, .a4{
+    
+        margin-left: 200px;
+        border-style: dashed;
+    }
+    .a2, .a5{
+    
+        margin-left: 50px;
+        margin-top: 160px;
+        border-style: dashed;
+    }
+    .a2 img{
+        width: 70px;
+        height: 70px;
+    }
+    .a3, .a6{
+        
+        margin-left: 280px;
+        margin-top: 310px;
+        border-style: dashed;
+    }
+    .a3 img{
+        width: 60px;
+        height: 60px;
+    }
+    .a5 img{
+        width: 70px;
+        height: 70px;
+    }
+    .a6 img{
+        width: 60px;
+        height: 60px;
+    }
+    .muse{
+        font-family: "EB Garamond", serif;
+    }

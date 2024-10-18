@@ -1,0 +1,161 @@
+.test{
+
+
+    margin-top: 500px;
+}
+
+.image1{
+    border-bottom-right-radius: 30px;
+
+    width: 650px;
+    height: 680px;
+}
+.style1{
+    width: 230px;
+    height: 220px;
+    font-family: "Merriweather Sans", sans-serif;
+    font-family: "Alegreya", serif;
+}
+.test3{
+    /* width: 800px; */
+    height: 650px;
+}
+.style4{
+    width: 80px;
+    height: 80px;
+
+}
+.style5{
+    width: 50px;
+    height: 50px;
+}
+.font{
+    font-family: "Libre Baskerville", serif;
+}
+.font2{
+    font-family: "EB Garamond", serif;
+}
+/* @media (width: 1850px) {
+    
+    .d-flex .flex-row {
+
+    flex-direction: column !important;
+
+}
+
+} */
+.hoverr a{
+    visibility: hidden;
+}
+.heightt:hover{
+    /* transform: scaleY(3);
+    height: 300px;
+    transition: all 1s; */
+
+
+}
+/* .hoverr:hover a{
+visibility: visible;
+
+} */
+/* .hoverr:hover .big2{
+    height: 18rem;
+    width: 16rem;
+    display: none;
+
+} */
+
+/* .big2{
+    height: 18rem;
+    width: 15rem;
+} */
+
+/* .hoverr{
+    transition: all 2s;
+    
+}
+.hoverr img{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.hoverr:hover img{
+    transform: scale(1.2);
+    height: 16rem;
+    width: 14rem;
+    margin-bottom:30px ;
+    margin-top: 30px;
+    transition: 0.2s;
+} */
+.sizeee{
+    margin-top: 400px;
+width: 100%;
+margin-left: -16px;
+display:block;
+bottom: 0;
+height: 10rem;
+}
+
+.new1:hover .sizeee{
+    height: 12.5rem;
+display: block;
+transform:  translateY(-20px);
+transition: 1s;
+overflow: hidden;
+
+
+}
+.ghayem{
+    
+    display: none;
+}
+.ghayem i{
+    transform: rotate(180deg) !important;
+}
+.new1:hover .ghayem{
+    display: block;
+}
+.new1:hover img{
+    /* transform: scale(1.2); */
+    /* transition: all 0.5s;
+    margin-top: -20px; */
+    /* padding-left: 0 !important;
+    padding-right: 0 !important; */
+    
+
+}
+.paddd{
+    padding: 10px;
+}
+.new1:hover .paddd{
+    
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    transition: 1s;
+}   
+/* .big{
+    display: none;
+} */
+/* .hoverr:hover .big{
+    display: block;
+    height: 20rem;
+    width: 17rem;
+    transform: scale(1.003);
+} */
+
+ /* @media (width: 576px){
+.saveme{
+    display: flex;
+    flex-wrap: wrap !important;
+    max-width: 100%;
+    height: auto;
+}
+ } */
+ /* @media (max-width:1395px) {
+    .image1{
+        border-bottom-right-radius: 30px;
+        
+        width: 580px;
+        height: 700px;
+    }
+ } */
