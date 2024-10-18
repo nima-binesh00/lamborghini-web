@@ -1,0 +1,64 @@
+footer{
+margin-top: 50px !important;
+}
+details:hover{
+transform: scale(1.1,1.1) !important;
+}
+
+footer div>button:hover i{
+color: blue;
+}
+@media screen and (max-width:769px) { 
+   footer section{
+        width: auto;
+    }
+
+    footer{
+        background-color: black !important;
+        color: aqua;
+    }
+  footer div>img{
+        display: none !important;
+    }
+    footer>:first-child>article:nth-child(4){
+        /* font-size: x-small; */
+    
+        display: none !important;
+    }
+    footer>:first-child+section>section{
+        flex-direction: column;
+        
+    }
+   
+    footer>:first-child>article{
+        width: 100% !important;
+    /* background-color: gray; */
+    gap: 5%;
+    font-size: small;
+    }
+    footer>:first-child>article:nth-child(2){
+        font-size: x-small;
+    }
+    
+    footer{
+        padding: 0 !important;
+    }
+    
+}
+@media screen and (min-width:330px) { 
+    footer>:first-child>article:nth-child(4){
+        /* font-size: x-small; */
+    
+        display:flex !important;
+    }
+    footer>:first-child>article:nth-child(2){
+        font-size: medium !important;
+    }
+    
+}
+@media screen and (min-width:769px) { 
+
+footer{
+    background-color: red !important;
+}
+}
